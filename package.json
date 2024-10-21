@@ -3,7 +3,7 @@
   "version": "4.4.7",
   "description": "Wallet - by Blocktrail",
   "dependencies": {
-    "cordova": "^8.1.2",
+    "cordova": "^9.0.0",
     "cordova-android": "6.4.0",
     "cordova-ios": "4.5.4",
     "cordova-plugin-android-permissions": "1.0.0",
